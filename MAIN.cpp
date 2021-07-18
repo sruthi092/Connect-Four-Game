@@ -1,5 +1,5 @@
 #include<iostream>
-#include "PROJECT2_A05024226_GAME.h"
+#include "GAME.h"
 #include<chrono>
 using namespace std;
 using namespace std::chrono;
