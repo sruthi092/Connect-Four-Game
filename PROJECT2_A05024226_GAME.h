@@ -1,9 +1,9 @@
-#ifndef PROJECT2_A05024226_GAME_H
-#define PROJECT2_A05024226_GAME_H
+#ifndef GAME_H
+#define GAME_H
 
 #include<iostream>
 #include<vector>
-#include "PROJECT2_A05024226_PLAY.h"
+#include "PLAY.h"
 
 using namespace std;
 
