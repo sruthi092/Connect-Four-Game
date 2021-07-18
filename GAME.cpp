@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include "PROJECT2_A05024226_GAME.h"
+#include "GAME.h"
 using namespace std;
 
 void Connect4Game::setBoard()
