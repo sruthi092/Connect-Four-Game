@@ -1,5 +1,5 @@
-#ifndef PROJECT2_A05024226_PLAY_H
-#define PROJECT2_A05024226_PLAY_H
+#ifndef PLAY_H
+#define PLAY_H
 
 #include<iostream>
 #include<limits.h>
