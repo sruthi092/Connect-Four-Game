@@ -1,7 +1,7 @@
 #include<iostream>
 #include<limits.h>
 #include <vector>
-#include "Project2_A05024226_PLAY.h"
+#include "PLAY.h"
 using namespace std;
 
 unsigned int MAX_ROW = 6;
